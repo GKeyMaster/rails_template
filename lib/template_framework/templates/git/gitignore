@@ -1,0 +1,7 @@
+config/database.yml
+config/mongoid.yml
+public/cache/
+public/system/*
+tmp/restart.txt
+coverage/
+coverage.data
